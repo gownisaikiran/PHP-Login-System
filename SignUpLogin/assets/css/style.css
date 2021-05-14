@@ -1,0 +1,13 @@
+.login-page{
+    background: url("../images/login-bg.jpg");
+}
+
+.signup-page{
+    background: url("../images/signup-bg.jpg");
+}
+
+.login-page, .signup-page{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
